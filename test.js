@@ -1,0 +1,32 @@
+var tl = gsap.timeline()
+tl.to(".box1",{
+	x:1000,
+	rotate:360,
+	duration:2,
+	delay:1,
+	yoyo:true,
+	repeat:1,
+	stagger:1,
+	borderRadius:"50%"
+})
+tl.from(".box2",{
+	x:1000,
+	rotate:360,
+	duration:2,
+	delay:1,
+	yoyo:true,
+	repeat:1,
+	stagger:1,
+	borderRadius:"50%"
+})
+tl.to(".box3",{
+	x:1000,
+	rotate:360,
+	duration:2,
+	delay:1,
+	yoyo:true,
+	repeat:1,
+	stagger:1,
+	borderRadius:"50%"
+})
+

@@ -1,0 +1,27 @@
+.nav{
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	box-shadow:10px 10px 10px grey;
+	backdrop-filter: blur(30px);
+}
+.part2{
+	display: flex;
+	gap: 75px;
+	padding: 30px 50px ;
+	font-size: 20px;
+}
+h2{
+	padding-left: 75px;
+	
+}
+.banner{
+	height: 600px;
+	width: 100%;
+	border: 2px solid white;
+	background-image: url(/silver_metal_background_1.jpg);
+}
+img{
+	height: 200px;
+	width: 200px;
+}

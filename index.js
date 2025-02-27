@@ -1,0 +1,10 @@
+gsap.to("h1",{
+	color:"white",
+	duration:2,
+	delay:1,
+	y:30,
+	fontSize:20,
+	stagger:-1,
+	repeat:1
+})
+gsap.
