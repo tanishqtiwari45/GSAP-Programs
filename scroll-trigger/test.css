@@ -1,0 +1,18 @@
+#page1{
+	height:700px;
+	width:100%;
+	background-color: black;
+}
+#page2{
+	height:700px;
+	width:100%;
+	background-color: rgb(72, 195, 236);
+	font-size: 40vw;
+	font-weight: 400;
+	text-transform: uppercase;
+}
+#page3{
+	height:700px;
+	width:100%;
+	background-color: black;
+}
