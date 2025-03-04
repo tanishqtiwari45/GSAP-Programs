@@ -1,0 +1,25 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+html,body{
+	height:600px;
+	width:100%;
+	background-color: #eefeff;
+}
+
+#main{
+	width: 100%;
+	height: 695px;
+	background-color: #eefeff;
+
+}
+#cursor{
+	width:20px;
+	height: 20px;
+	background-image: linear-gradient(to right, rgb(38, 136, 175),black);
+	border-radius: 50%;
+	position: fixed;
+}
